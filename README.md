@@ -10,3 +10,4 @@ Repositório dedicado ao armazenamento de estudos, scripts e automações.
 
 ---
 *Última atualização: 01/02/2026*
+ 
