@@ -5,7 +5,6 @@
 - `git push`: Enviar minhas conquistas para o mundo!
 - top : Monitora processos.
 
-
 - **Comando VI**
 - i: Entra no modo de Inserção (para conseguir escrever).
 - Esc: Sai do modo de inserção e volta para o modo de Comando.
