@@ -3,16 +3,19 @@
 Repositório de estudos focado no isolamento nativo do Kernel Linux (Namespaces e Cgroups).
 
 ## 🔹 Diferença Técnica
-- **LXC**: É o motor de execução dos containers. Ele permite que o processo acredite que está em uma máquina isolada.
-- **LXD**: É o "carro" que dirigimos. Ele fornece a interface de comando `lxc` para gerenciar as imagens e instâncias de forma simples.
+- **LXC**: O motor de execução. Isola o processo para que ele pareça um SO independente.
+- **LXD**: O gerenciador. Facilita o controle das instâncias via comando `lxc`.
 
-## 🛠️ Desafios Superados no Rocky Linux
-- **Instalação via Snap**: Necessário para garantir a versão mais estável do daemon.
-- **Backend de Armazenamento**: Configurado como `dir` (diretório) devido às restrições de kernel para ZFS/BTRFS no ambiente.
-- **Permissões**: Configuração do grupo `lxd` para acesso sem `sudo`.
+## 🛠️ Setup no Rocky Linux
+- **Storage**: Configurado como `dir` devido à compatibilidade do Kernel.
+- **Primeiro Container**: `lxc launch ubuntu:22.04 meucontainer`.
 
-## 📋 Comandos Práticos
-- `lxc launch ubuntu:22.04 meucontainer` -> Cria e inicia o container.
-- `lxc list` -> Exibe status e IP (ex: 10.144.209.103).
-- `lxc exec meucontainer bash` -> Acesso ao shell interno.
-- `lxc delete meucontainer --force` -> Remove a instância.
+## 📖 Guia de Boas Práticas (Git Commits)
+Sempre utilizar o padrão **Conventional Commits** para um histórico profissional:
+- `feat:` Novas funcionalidades ou pastas (ex: novo módulo).
+- `fix:` Correção de erros em comandos ou scripts.
+- `docs:` Alterações apenas em arquivos de texto/notas.
+- `refactor:` Mudança na estrutura sem alterar a função (ex: renomear pastas).
+- `chore:` Tarefas rotineiras ou manutenção.
+
+*Nota: Sempre usar `-m` para evitar a abertura acidental do editor Vim.*
