@@ -1,17 +1,18 @@
-# Estudos de Containers de Sistema - LXD/LXC
+# 🚀 Containers de Sistema: LXC e LXD
 
-Notas sobre o módulo de infraestrutura de containers utilizando LXD no **Rocky Linux**.
+Repositório de estudos focado no isolamento nativo do Kernel Linux (Namespaces e Cgroups).
 
-## Aprendizados Técnicos
-- **LXD vs Docker**: Entendi que o LXD cria containers de sistema (como máquinas virtuais leves que compartilham o kernel do host), enquanto o Docker foca em containers de aplicação.
-- **Uso de Recursos**: O container utiliza os recursos (CPU/RAM) do SO hospedeiro sob demanda, sem a sobrecarga de um Hypervisor.
+## 🔹 Diferença Técnica
+- **LXC**: É o motor de execução dos containers. Ele permite que o processo acredite que está em uma máquina isolada.
+- **LXD**: É o "carro" que dirigimos. Ele fornece a interface de comando `lxc` para gerenciar as imagens e instâncias de forma simples.
 
-## Desafios no Rocky Linux
-- **Instalação**: Necessário utilizar o `snap` para instalar o LXD no Rocky Linux.
-- **Storage Backend**: Devido a incompatibilidades de kernel com BTRFS/ZFS no ambiente atual, utilizei o backend `dir` durante o `lxd init`.
-- **Permissões**: Configuração de grupos de usuário para permitir o comando `lxc` sem `sudo`.
+## 🛠️ Desafios Superados no Rocky Linux
+- **Instalação via Snap**: Necessário para garantir a versão mais estável do daemon.
+- **Backend de Armazenamento**: Configurado como `dir` (diretório) devido às restrições de kernel para ZFS/BTRFS no ambiente.
+- **Permissões**: Configuração do grupo `lxd` para acesso sem `sudo`.
 
-## Comandos Utilizados
-- Iniciar serviço: `sudo lxd init`
-- Lançar container: `lxc launch ubuntu:22.04 meucontainer`
-- Listar instâncias: `lxc list`
+## 📋 Comandos Práticos
+- `lxc launch ubuntu:22.04 meucontainer` -> Cria e inicia o container.
+- `lxc list` -> Exibe status e IP (ex: 10.144.209.103).
+- `lxc exec meucontainer bash` -> Acesso ao shell interno.
+- `lxc delete meucontainer --force` -> Remove a instância.
