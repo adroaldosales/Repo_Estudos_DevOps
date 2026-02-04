@@ -25,5 +25,15 @@ This repository is a central hub for my technical evolution in the **DevOps Pro*
 - Git Flow & Version Control best practices.
 
 ---
+
+## 📅 Study Log (Progress Tracking)
+
+| Date | Category | Lab / Activity | Status |
+| :--- | :--- | :--- | :--- |
+| Feb 03, 2026 | 🏗️ Profile | Initial setup of professional GitHub READMEs | Done ✅ |
+| Feb 04, 2026 | 🐧 Linux | Terminal navigation and file permissions | In Progress 🚧 |
+| Feb 05, 2026 | 🐳 Docker | Creating the first Dockerfile and running containers | Planned 📅 |
+
+---
 *Last update: February 2026*
  
