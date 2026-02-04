@@ -4,6 +4,7 @@
 - `ls -la`: Listar tudo, incluindo arquivos ocultos.
 - `git push`: Enviar minhas conquistas para o mundo!
 - top : Monitora processos.
+<br>
 
 **Comando VI**
 - i: Entra no modo de Inserção (para conseguir escrever).
