@@ -34,7 +34,7 @@ This repository is a central hub for my technical evolution in the **DevOps Pro*
 | Jan 30, 2026 | 🐙 Git/GitHub | Version control fundamentals and repository setup | Done ✅ |
 | Feb 03, 2026 | 📂 Profile | Initial setup of professional GitHub READMEs | Done ✅ |
 | Feb 04, 2026 | 📦 LXC/LXD | System containers and storage setup on Rocky Linux | Done ✅ |
-| Feb 05, 2026 | 🐳 Docker | Creating the first Dockerfile and running containers | In Progress 🏗️ |
+| Feb 05, 2026 | 🐳 Docker | Creating the first Dockerfile and running containers | Done ✅ |
 | Feb 2026 | ☸️ Kubernetes | Cluster administration and orchestration fundamentals | Planned 🗓️ |
 
 *Last update: February 2026*
