@@ -29,3 +29,6 @@ apt update && apt install curl -y
 # Validar instalação
 curl --version
 
+
+## ✅ Teste de Sincronização Remota
+- Arquivo editado via terminal às 00:25.
