@@ -36,7 +36,7 @@ This repository is a central hub for my technical evolution in the **DevOps Pro*
 | Feb 04, 2026 | 📦 LXC/LXD | System containers and storage setup on Rocky Linux | Done ✅ |
 | Feb 05, 2026 | 🐳 Docker | Creating the first Dockfile and running containers | Done ✅ |
 | Feb 05 - 12 | 🐳 Docker | Fundamentals, Optimized Images and Multistage Build | Done ✅ |
-| Feb 13 - 20 | 🐳 Docker | Network, Volumes, Troubleshooting and Docker Compose | Planned 🗓️  |
+| Feb 13 - 20 | 🐳 Docker | Network, Volumes, Troubleshooting and Docker Compose | In Progress 🏗️  |
 | Feb 2026 | ☸️ Kubernetes | Cluster administration and orchestration fundamentals | Planned 🗓️ |
 
 ---
