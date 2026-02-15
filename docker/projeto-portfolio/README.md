@@ -24,7 +24,7 @@ Durante o desenvolvimento, foi identificado um erro de codificação (charset) n
 ### 📸 Evidências do Projeto
 
 #### Resultado da Página Web
-![Portfólio](./screenshots/Pg_web.png)
+![Portfólio](screenshots/Pg_web.png)
 
 #### Resultado Final e Troubleshooting
-![Troubleshooting](./screenshots/Result_final.png)
+![Troubleshooting](screenshots/Result_final.png)
