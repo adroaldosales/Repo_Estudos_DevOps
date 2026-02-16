@@ -26,21 +26,20 @@ This repository is a central hub for my technical evolution in the **DevOps Pro*
 
 ---
 
-### 📋 Study Log (Progress Tracking)
+### 📝 Study Log (Progress Tracking)
 
 | Date | Category | Lab / Activity | Status |
 | :--- | :--- | :--- | :--- |
 | Jan 08, 2026 | 🐧 Linux | Terminal navigation and file permissions | Done ✅ |
-| Jan 30, 2026 | 🐙 Git/GitHub | Version control fundamentals and repository setup | Done ✅ |
-| Feb 03, 2026 | 📂 Profile | Initial setup of professional GitHub READMEs | Done ✅ |
-| Feb 04, 2026 | 📦 LXC/LXD | System containers and storage setup on Rocky Linux | Done ✅ |
-| Feb 05, 2026 | 🐳 Docker | Creating the first Dockfile and running containers | Done ✅ |
-| Feb 05 - 12 | 🐳 Docker | Fundamentals, Optimized Images and Multistage Build | Done ✅ |
-| Feb 13 - 20 | 🐳 Docker | Network, Volumes, Troubleshooting and Docker Compose | In Progress 🏗️  |
-| Feb 20 - 28 | 🐳 Docker | Advanced Labs: Dockerfile, Docker in Docker, etc | Planned 🗓️ |
-| March 2026 | 🐳 Docker | Docker API e Docker SDK Volumes (Bind Mounts, tmpfs), etc | Planned 🗓️ |
-| March 2026 | 🐳 Docker | Labs: Docker e NodeJs , and Docker Registry, etc  | Planned 🗓️🗓️ |
-| March 2026 | ☸️ Kubernetes | Cluster administration and orchestration fundamentals | Planned 🗓️ |
+| Jan 30, 2026 | 🐙 Git/GitHub | Version control and repository setup | Done ✅ |
+| Feb 03, 2026 | 📁 Profile | Initial setup of professional READMEs | Done ✅ |
+| Feb 04, 2026 | 📦 LXC/LXD | Containers and storage on Rocky Linux | Done ✅ |
+| Feb 05, 2026 | 🐳 Docker | First Dockerfile and running containers | Done ✅ |
+| Feb 05, 2026 | 🐳 Docker | Fundamentals and Multistage Build | Done ✅ |
+| Feb 13, 2026 | 🐳 Docker | Network, Volumes and Docker Compose | In Progress 🏗️ |
+| Feb 20, 2026 | 🐳 Docker | Advanced Dockerfile, Optimization, etc. | Planned 🗓️ |
+| March 2026 | 🐳 Docker | Resilience, Registry, Node.js, etc. | Planned 🗓️ |
+| March 2026 | ☸️ Kubernetes | Cluster administration and orchestration | Planned 🗓️ |
 
 ---
 
