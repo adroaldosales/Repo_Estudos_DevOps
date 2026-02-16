@@ -37,8 +37,9 @@ This repository is a central hub for my technical evolution in the **DevOps Pro*
 | Feb 05, 2026 | 🐳 Docker | Creating the first Dockfile and running containers | Done ✅ |
 | Feb 05 - 12 | 🐳 Docker | Fundamentals, Optimized Images and Multistage Build | Done ✅ |
 | Feb 13 - 20 | 🐳 Docker | Network, Volumes, Troubleshooting and Docker Compose | In Progress 🏗️  |
-| Feb 20 - 28 | 🐳 Docker | Advanced Labs: Dockerfile, Docker in Docker, Docker e NodeJs | Planned 🗓️ |
-| March 2026 | 🐳 Docker | Docker API e Docker SDK Volumes (Bind Mounts, tmpfs), and Docker Registry | Planned 🗓️ |
+| Feb 20 - 28 | 🐳 Docker | Advanced Labs: Dockerfile, Docker in Docker, etc | Planned 🗓️ |
+| March 2026 | 🐳 Docker | Docker API e Docker SDK Volumes (Bind Mounts, tmpfs), etc | Planned 🗓️ |
+| March 2026 | 🐳 Docker | Labs: Docker e NodeJs , and Docker Registry, etc  | Planned 🗓️🗓️ |
 | March 2026 | ☸️ Kubernetes | Cluster administration and orchestration fundamentals | Planned 🗓️ |
 
 ---
