@@ -40,6 +40,7 @@ This repository is a central hub for my technical evolution in the **DevOps Pro*
 | Feb 20, 2026 | 🐳 Docker | Advanced Dockerfile, Optimization, etc. | Planned 🗓️ |
 | March 2026 | 🐳 Docker | Resilience, Registry, Node.js, etc. | Planned 🗓️ |
 | March 2026 | ☸️ Kubernetes | Cluster administration and orchestration | Planned 🗓️ |
+| March 2026 | 🚀 CI/CD |GiHub and GitHub Actions: Workflows e Automação | Planned 🗓️ |
 
 ---
 
