@@ -44,6 +44,7 @@ This repository is a central hub for my technical evolution in the **DevOps Pro*
 | April 2026 | 🏗️ CI/CD | Jenkins: Pipelines, Multi-branch e Jenkinsfile | Planned 🗓️ |
 | April 2026 | 📊 Monitoring | Prometheus: Observability, Metrics and AlertManager | Planned 🗓️ |
 | May 2026 | 🪵 Logging, | Logs com Grafana Loki: LogQL e Retenção, etc | Planned 🗓️ |
+| May 2026 | 🕵️ Tracing | Tracing com Jaeger: Distributed Tracing e Spans | Planned 🗓️ |
 
 ---
 
