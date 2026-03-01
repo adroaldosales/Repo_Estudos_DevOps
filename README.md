@@ -39,7 +39,7 @@ This repository is a central hub for my technical evolution in the **DevOps Pro*
 | Feb 13, 2026 | 🐳 Docker | Network, Volumes and Docker Compose | In Progress 🏗️ |
 | Feb 20, 2026 | 🐳 Docker | Advanced Dockerfile, Optimization, etc. | Planned 🗓️ |
 | March 2026 | 🐳 Docker | Resilience, Registry, Node.js, etc. | Planned 🗓️ |
-| March 2026 | ☸️ Kubernetes | Cluster administration and orchestration | Planned 🗓️ |
+| March 2026 | ☸️ Kubernetes | Kubernetes 2.0: Cluster and Applications | Planned 🗓️ |
 | March 2026 | 🏗️ CI/CD |GiHub and GitHub Actions: Workflows e Automação | Planned 🗓️ |
 | April 2026 | 🏗️ CI/CD | Jenkins: Pipelines, Multi-branch e Jenkinsfile | Planned 🗓️ |
 | April 2026 | 📊 Monitoring | Prometheus: Observability, Metrics and AlertManager | Planned 🗓️ |
