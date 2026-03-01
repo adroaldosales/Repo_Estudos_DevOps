@@ -46,6 +46,7 @@ This repository is a central hub for my technical evolution in the **DevOps Pro*
 | May 2026 | 🪵 Logging, | Logs com Grafana Loki: LogQL e Retenção, etc | Planned 🗓️ |
 | May 2026 | 🕵️ Tracing | Tracing com Jaeger: Distributed Tracing e Spans | Planned 🗓️ |
 | May 2026 | 🏗️ IaC | Terraform: Infrastructure as Code e State Management | Planned 🗓️ |
+| June 2026 | 🤖 Ansible | Configuration Management and Automation | Planned 🗓️ |
 
 
 ---
