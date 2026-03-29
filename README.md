@@ -30,15 +30,10 @@ This repository is a central hub for my technical evolution in the **DevOps Pro*
 
 | Date | Category | Lab / Activity | Status |
 | :--- | :--- | :--- | :--- |
-| Jan 08, 2026 | 🐧 Linux | Terminal navigation and file permissions | Done ✅ |
-| Jan 30, 2026 | 🐙 Git/GitHub | Version control and repository setup | Done ✅ |
-| Feb 03, 2026 | 📁 Profile | Initial setup of professional READMEs | Done ✅ |
+| Jan 2026 | 🐧 Linux | Terminal navigation and file permissions | Done ✅ |
+| Jan 2026 | 🐙 Git/GitHub | Version control and repository setup | Done ✅ ||
 | Feb 04, 2026 | 📦 LXC/LXD | Containers and storage on Rocky Linux | Done ✅ |
-| Feb 05, 2026 | 🐳 Docker | First Dockerfile and running containers | Done ✅ |
-| Feb 05, 2026 | 🐳 Docker | Fundamentals and Multistage Build | Done ✅ |
-| Feb 13, 2026 | 🐳 Docker | Network, Volumes and Docker Compose |  Done ✅ |
-| March 2026 | 🐳 Docker | Advanced Dockerfile, Optimization, etc. | In Progress 🏗️ |
-| March 2026 | 🐳 Docker | Resilience, Registry, Node.js, etc. | Planned 🗓️ |
+| Feb 05, 2026 | 🐳 Docker | Dockerfile, Registry, Node.js, etc. |In Progress 🗓️ |
 | March 2026 | ☸️ Kubernetes | Kubernetes 2.0: Cluster and Applications | Planned 🗓️ |
 | March 2026 | 🏗️ CI/CD |GiHub and GitHub Actions: Workflows e Automação | Planned 🗓️ |
 | April 2026 | 🏗️ CI/CD | Jenkins: Pipelines, Multi-branch e Jenkinsfile | Planned 🗓️ |
