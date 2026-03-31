@@ -44,7 +44,7 @@ This repository is a central hub for my technical evolution in the **DevOps Pro*
 | June 2026 | 🤖 Ansible | Configuration Management and Automation | Planned 🗓️ |
 | June 2026 | ☁️ AWS | DevOps on AWS: Infrastructure and CI/CD | Planned 🗓️ |
 | July 2026 | ☸️ Kubernetes | Kubernetes 2.0: Advanced Administration | Planned 🗓️ |
-
+| August 2026 | ☁️ Azure | DevOps no Azure | Planned 🗓️ |
 
 ---
 
