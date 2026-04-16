@@ -28,10 +28,10 @@ This repository is a central hub for my technical evolution in the **DevOps** tr
 
 ### 📝 Study Log
 
-| Date | Category | Status |
-| :--- | :--- | :--- |
-| Jan 2026 | 🚀 Introduction to DevOps | Done ✅ |
-| Jan 2026 | 🐧 Linux | Done ✅ |
+| Nº | Date | Category | Status |
+| :--- | :--- | :--- |:--- |
+| 1 | Jan 2026 | 🚀 Introduction to DevOps | Done ✅ |
+| 2 | Jan 2026 | 🐧 Linux | Done ✅ |
 | Jan 2026 | 🐙 Git/GitHub | Done ✅ ||
 | April 2026 | 🐳 Docker 2.0 |In Progress 🗓️  |
 | April 2026 | ☸️ Kubernetes 2.0 - Applications | Planned 🗓️  |
