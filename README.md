@@ -1,6 +1,6 @@
 # 🚀  - Hands-on Labs 2026	
 
-This repository is a central hub for my technical evolution in the **DevOps Pro** track. Here, I store infrastructure-as-code scripts, containerization strategies, and orchestration labs.
+This repository is a central hub for my technical evolution in the **DevOps** track. Here, I store infrastructure-as-code scripts, containerization strategies, and orchestration labs.
 
 ---
 
