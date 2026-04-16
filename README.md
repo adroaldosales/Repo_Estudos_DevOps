@@ -35,7 +35,7 @@ This repository is a central hub for my technical evolution in the **DevOps** tr
 | 3 | Jan 2026 | 🐙 Git/GitHub | Done ✅ ||
 | 4 | April 2026 | 🐳 Docker 2.0 |In Progress 🗓️  |
 | 5 | April 2026 | ☸️ Kubernetes 2.0 - Applications | Planned 🗓️  |
-| 6 | April 2026 | 🏗️ GitHub e GitHub Actions | Planned 🗓️  |
+| 6 | April 2026 | 🏗️ GitHub & GitHub Actions | Planned 🗓️  |
 | 7 | May 2026 | 🏗️ Jenkins | Planned 🗓️  |
 | 8 | May 2026 | 📊 Metrics & Monitoring with Prometheus | Planned 🗓️  |
 | 9 | May 2026 | 🪵 Logging with Grafana Loki | Planned 🗓️  |
@@ -49,7 +49,7 @@ This repository is a central hub for my technical evolution in the **DevOps** tr
 | 17 |August 2026 | 📈 OpenTelemetry | Planned 🗓️  |
 | 18 |August 2026 | ☁️ DevOps on GCP | Planned 🗓️  |
 | 19 |August 2026 | 🧠 Artificial Intelligence | Planned 🗓️  |
-| 20 |August 2026 | 📊 Promethe & Grafana | Planned 🗓️  |
+| 20 |August 2026 | 📊 Prometheus & Grafana | Planned 🗓️  |
 | 21 |August 2026 | 🕸️ Service Mesh & Istio | Planned 🗓️  |
 
 ---
