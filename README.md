@@ -11,7 +11,7 @@ This repository is a central hub for my technical evolution in the **DevOps** tr
 - **Kubernetes**: ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white) Cluster administration and Helm charts.
 
 ### 🏗️ Infrastructure as Code
-- **Terraform**: ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=flat&logo=terraform&logoColor=white) Multicloud provisioning (AWS, Azureand GCP).
+- **Terraform**: ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=flat&logo=terraform&logoColor=white) Multicloud provisioning (AWS, Azure and GCP).
 - **Ansible**: ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=flat&logo=ansible&logoColor=white) Configuration management.
 
 ### 📊 Observability & CI/CD
