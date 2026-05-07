@@ -38,7 +38,7 @@ This repository is a central hub for my technical evolution in the **DevOps** tr
 | 6 | May 2026 | 🏗️ GitHub & GitHub Actions | Planned 🗓️  |
 | 7 | May 2026 | 🏗️ Jenkins | Planned 🗓️  |
 | 8 | May 2026 | 📊 Metrics & Monitoring with Prometheus | Planned 🗓️  |
-| 9 | May 2026 | 🪵 Logging with Grafana Loki | Planned 🗓️  |
+| 9 | June 2026 | 🪵 Logging with Grafana Loki | Planned 🗓️  |
 | 10 | June 2026 | 🕵️ Tracing with Jaeger | Planned 🗓️  |
 | 11 |June 2026 | 🏗️ Terraform | Planned 🗓️  |
 | 12 | June 2026 | 🤖 Ansible | Planned 🗓️  |
