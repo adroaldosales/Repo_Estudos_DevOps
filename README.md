@@ -33,9 +33,9 @@ This repository is a central hub for my technical evolution in the **DevOps** tr
 | 1 | Jan 2026 | 🚀 Introduction to DevOps | Done ✅ |
 | 2 | Jan 2026 | 🐧 Linux | Done ✅ |
 | 3 | Jan 2026 | 🐙 Git/GitHub | Done ✅ ||
-| 4 | April 2026 | 🐳 Docker 2.0 |In Progress 🗓️  |
-| 5 | April 2026 | ☸️ Kubernetes 2.0 - Applications | Planned 🗓️  |
-| 6 | April 2026 | 🏗️ GitHub & GitHub Actions | Planned 🗓️  |
+| 4 | May 2026 | 🐳 Docker 2.0 |In Progress 🗓️  |
+| 5 | May 2026 | ☸️ Kubernetes 2.0 - Applications | Planned 🗓️  |
+| 6 | May 2026 | 🏗️ GitHub & GitHub Actions | Planned 🗓️  |
 | 7 | May 2026 | 🏗️ Jenkins | Planned 🗓️  |
 | 8 | May 2026 | 📊 Metrics & Monitoring with Prometheus | Planned 🗓️  |
 | 9 | May 2026 | 🪵 Logging with Grafana Loki | Planned 🗓️  |
@@ -54,4 +54,4 @@ This repository is a central hub for my technical evolution in the **DevOps** tr
 
 ---
 
-*Last update: April 2026*
+*Last update: May 2026*
